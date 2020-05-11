@@ -1,4 +1,4 @@
-# letsencrypt-auto-configuration
+# Letsencrypt-Auto-Configuration
 Bash script to configure letsencrypt SSL on your VPS
 
 # Have been tested on Ubuntu 18.04
