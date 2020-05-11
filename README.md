@@ -1,4 +1,4 @@
-# Script by Bob/Noyes/Ayiezola
+# Script by Bob
 Letsencrypt Auto Configuration v1.0
 #StayHome
 #kitajagakita
