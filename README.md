@@ -1,3 +1,9 @@
+# Script by Bob/Noyes/Ayiezola
+# Letsencrypt Auto Configuration v1.0
+# StayHome
+# kitajagakita
+
+
 # Letsencrypt-Auto-Configuration
 Bash script to configure letsencrypt SSL on your VPS
 
